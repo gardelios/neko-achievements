@@ -165,7 +165,7 @@
   metadata: &17
     title_ru: Этот замечательный мир!
     title_en: KonoSuba
-    image: "/assets/achievements/anime/franchise/konosuba.jpg"
+    image: "https://steamuserimages-a.akamaihd.net/ugc/170413070171183616/CB4D3D412AE0208E758DE13F68F85B8C86EC8D60/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     topic_id: 247360
 - neko_id: konosuba
   level: 0
