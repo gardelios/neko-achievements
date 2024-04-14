@@ -143,7 +143,7 @@
   metadata: &14
     title_ru: Клинок, рассекающий демонов
     title_en: Kimetsu no Yaiba
-    image: "/assets/achievements/anime/franchise/demon_slayer.jpg"
+    image: "/assets/achievements/anime/franchise/https://i.pinimg.com/originals/f2/f6/c1/f2f6c1d60b2dd750f6eef07d990e011c.gif"
     topic_id: 247360
   generator: &15
     threshold: 96%
